@@ -1,6 +1,3 @@
--- GinkPlus 공통 함수 사용
-local GinkPlus = GinkPlus
-
 local f = CreateFrame("Frame")
 f:RegisterEvent("PLAYER_REGEN_DISABLED")
 f:RegisterEvent("PLAYER_REGEN_ENABLED")
