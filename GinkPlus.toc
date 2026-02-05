@@ -1,0 +1,11 @@
+## Interface: 120000, 120001
+## Title: GinkPlus
+## Notes: Utility modules
+## Author: Gink
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\GinkPlus\GinkPlus_Icon.png
+## X-Category: Utility
+## X-License: All Rights Reserved
+
+GinkPlus.lua
+GinkPlus_CombatState.lua
